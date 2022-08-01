@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio15-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicio 15",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Luis Ibañez",
+  "license": "ISC"
+}
